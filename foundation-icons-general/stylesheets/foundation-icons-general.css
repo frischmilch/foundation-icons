@@ -11,5 +11,5 @@
 }
 
 /* CSS to style glyphs */
-.glyph { cursor: default; font-size: 16px; line-height: 1; }
+.glyph { cursor: default; font-size: 16px; line-height: 1; text-transform: lowercase; }
 .glyph.general { font-family: "FoundationIconsGeneral"; }
