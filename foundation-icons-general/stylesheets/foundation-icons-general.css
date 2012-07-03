@@ -1,4 +1,4 @@
-/* Foundation Icons General */
+/* Foundation Icons General
 @font-face {
   font-family: 'FoundationIconsGeneral';
   src: url('../fonts/foundation-icons-general.eot');
@@ -9,7 +9,17 @@
   font-weight: normal;
   font-style: normal;
 }
+ */
+
+/* DEV (OTF for quick testing in Chrome) */
+@font-face {
+  font-family: 'FoundationIconsGeneral';
+  src: url('../fonts/foundation-icons-general.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 /* CSS to style glyphs */
-.glyph { cursor: default; font-size: 16px; line-height: 1; text-transform: lowercase; }
+.glyph { cursor: default; font-size: 16px; line-height: 1; }
 .glyph.general { font-family: "FoundationIconsGeneral"; }

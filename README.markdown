@@ -1,15 +1,17 @@
 Foundation Icon Font Sets
 =========================
-Custom icon sets that are stored in a handy web font. A couple lines of CSS and the right markup will get you going in no time.
+This is a fork of the foundation icon set, read the complete readme here: https://github.com/zurb/foundation-icons
 
-We designed the glyphs to be refined enough to stand alone as a simple icon, but left room for the imagination. Since you’ll be dealing with a font, the opportunities are nearly limitless. Now your icons can be any size, any color and any style available in CSS.
+Changes
+=======
+* Removed duplicate icons in webfont
+* To allow more icons, the webfont is now case sensitive!
+* Added a few new geometrics to the iconfont
 
-Usage
-=====
-* Download the icon font that you're interested in.
-* Merge the `fonts` and `stylesheets` folders into your Foundation project.
-* The default code is `<span class="glyph [set-name]">letter</span>`, feel free to customize that to your needs.
-* Style the icons using any CSS style that could apply to text!
+Authors
+=======
+
+This is a fork of the foundation iconset by Zurb, forked and edited by Johannes Henseler, http://nordsueddesign.de
 
 Repo Contents
 =============
