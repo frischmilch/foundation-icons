@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+I
+);
 customParameters = (
 {
 name = glyphOrder;
@@ -2093,7 +2096,7 @@ unicode = 0043;
 {
 color = 6;
 glyphname = D;
-lastChange = "2012-07-03 15:05:29 +0000";
+lastChange = "2012-07-04 14:13:55 +0000";
 layers = (
 {
 anchors = (
@@ -2104,6 +2107,50 @@ position = "{1024, 0}";
 {
 name = center;
 position = "{1024, 735}";
+},
+{
+name = top;
+position = "{1024, 1447}";
+}
+);
+layerId = "1730482B-7E8C-4DF6-A2D5-70B9989D176C";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"491 1221 LINE",
+"885 823 LINE",
+"-244 466 LINE",
+"1782 381 LINE",
+"1358 805 LINE",
+"2247 1257 LINE"
+);
+}
+);
+width = 2048;
+}
+);
+unicode = 0044;
+},
+{
+color = 6;
+glyphname = E;
+lastChange = "2012-07-04 14:13:12 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{1024, 0}";
+},
+{
+name = center;
+position = "{1024, 735}";
+},
+{
+name = ogonek;
+position = "{1843, 10}";
 },
 {
 name = top;
@@ -2144,7 +2191,197 @@ nodes = (
 width = 2048;
 }
 );
-unicode = 0044;
+unicode = 0045;
+},
+{
+color = 6;
+glyphname = F;
+lastChange = "2012-07-04 14:14:31 +0000";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{1024, 0}";
+},
+{
+name = center;
+position = "{1024, 735}";
+},
+{
+name = top;
+position = "{1024, 1447}";
+}
+);
+layerId = "1730482B-7E8C-4DF6-A2D5-70B9989D176C";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"569 319 LINE",
+"569 1190 LINE",
+"1439 1190 LINE",
+"1439 319 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"745 -319 LINE",
+"745 203 LINE",
+"1266 203 LINE",
+"1266 -319 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"921 1190 LINE",
+"921 1711 LINE",
+"1094 1711 LINE",
+"1091 1190 LINE"
+);
+}
+);
+width = 2048;
+}
+);
+unicode = 0046;
+},
+{
+color = 6;
+glyphname = I;
+lastChange = "2012-07-04 14:35:48 +0000";
+layers = (
+{
+anchors = (
+{
+name = center;
+position = "{1024, 724}";
+},
+{
+name = ogonek;
+position = "{1843, 10}";
+},
+{
+name = top;
+position = "{1024, 1470}";
+}
+);
+layerId = "1730482B-7E8C-4DF6-A2D5-70B9989D176C";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"1237 31 OFFCURVE",
+"1173 -48 OFFCURVE",
+"1127 -91 CURVE SMOOTH",
+"1052 -164 OFFCURVE",
+"966 -202 OFFCURVE",
+"876 -202 CURVE SMOOTH",
+"820 -202 OFFCURVE",
+"772 -185 OFFCURVE",
+"730 -153 CURVE SMOOTH",
+"683 -118 OFFCURVE",
+"660 -65 OFFCURVE",
+"660 4 CURVE SMOOTH",
+"660 26 OFFCURVE",
+"664 61 OFFCURVE",
+"675 106 CURVE SMOOTH",
+"682 132 OFFCURVE",
+"690 167 OFFCURVE",
+"702 207 CURVE SMOOTH",
+"858 777 LINE",
+"858 781 OFFCURVE",
+"860 785 OFFCURVE",
+"860 787 CURVE SMOOTH",
+"860 795 OFFCURVE",
+"858 812 OFFCURVE",
+"851 815 CURVE SMOOTH",
+"842 818 OFFCURVE",
+"816 824 OFFCURVE",
+"749 828 CURVE SMOOTH",
+"729 828 OFFCURVE",
+"714 844 OFFCURVE",
+"714 865 CURVE SMOOTH",
+"714 929 LINE SMOOTH",
+"714 950 OFFCURVE",
+"729 966 OFFCURVE",
+"748 968 CURVE SMOOTH",
+"794 970 OFFCURVE",
+"861 977 OFFCURVE",
+"950 988 CURVE SMOOTH",
+"1039 997 OFFCURVE",
+"1101 1005 OFFCURVE",
+"1137 1012 CURVE SMOOTH",
+"1244 1033 LINE SMOOTH",
+"1257 1035 OFFCURVE",
+"1271 1032 OFFCURVE",
+"1278 1022 CURVE SMOOTH",
+"1287 1012 OFFCURVE",
+"1290 998 OFFCURVE",
+"1287 988 CURVE SMOOTH",
+"1094 285 LINE SMOOTH",
+"1078 225 OFFCURVE",
+"1067 185 OFFCURVE",
+"1061 161 CURVE SMOOTH",
+"1041 86 OFFCURVE",
+"1040 61 OFFCURVE",
+"1040 54 CURVE",
+"1042 50 OFFCURVE",
+"1062 51 OFFCURVE",
+"1106 102 CURVE SMOOTH",
+"1142 142 OFFCURVE",
+"1173 185 OFFCURVE",
+"1200 229 CURVE SMOOTH",
+"1206 236 OFFCURVE",
+"1214 245 OFFCURVE",
+"1227 248 CURVE SMOOTH",
+"1236 249 OFFCURVE",
+"1246 248 OFFCURVE",
+"1256 242 CURVE SMOOTH",
+"1310 206 LINE SMOOTH",
+"1318 201 OFFCURVE",
+"1325 192 OFFCURVE",
+"1326 182 CURVE SMOOTH",
+"1329 173 OFFCURVE",
+"1326 163 OFFCURVE",
+"1321 153 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"1287 1197 OFFCURVE",
+"1239 1178 OFFCURVE",
+"1182 1178 CURVE SMOOTH",
+"1125 1178 OFFCURVE",
+"1077 1196 OFFCURVE",
+"1037 1237 CURVE SMOOTH",
+"997 1276 OFFCURVE",
+"976 1325 OFFCURVE",
+"976 1381 CURVE SMOOTH",
+"976 1437 OFFCURVE",
+"997 1485 OFFCURVE",
+"1037 1525 CURVE SMOOTH",
+"1117 1602 OFFCURVE",
+"1248 1602 OFFCURVE",
+"1328 1524 CURVE SMOOTH",
+"1366 1485 OFFCURVE",
+"1387 1437 OFFCURVE",
+"1387 1381 CURVE SMOOTH",
+"1387 1325 OFFCURVE",
+"1366 1276 OFFCURVE",
+"1328 1237 CURVE SMOOTH"
+);
+}
+);
+width = 2048;
+}
+);
+unicode = 0049;
 },
 {
 color = 10;
@@ -4706,9 +4943,9 @@ width = 2048;
 unicode = 0072;
 },
 {
-color = 10;
+color = 11;
 glyphname = s;
-lastChange = "2012-07-03 15:18:02 +0000";
+lastChange = "2012-07-03 15:31:46 +0000";
 layers = (
 {
 anchors = (
